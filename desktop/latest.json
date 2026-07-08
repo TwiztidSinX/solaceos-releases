@@ -1,11 +1,11 @@
 {
-  "version": "0.0.0",
-  "notes": "Placeholder — no desktop release yet.",
-  "pub_date": "2026-07-08T00:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
-    }
-  }
+    "version":  "1.0.0",
+    "notes":  "Genesis release - in-app update pipeline.",
+    "pub_date":  "2026-07-08T05:51:39Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGNobDJPQ0lNeG9xdG1hZmFxTm9oNDVxTW9Na3RWaXJTcXREb09NM2ZEdGRGamgvU21pWDk1Ym13SXRObXVRUk95aGF5Nk1VL3BaQkN5ZVZ6SGtpL0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDg5ODk5CWZpbGU6U29sYWNlT1NfMS4wLjBfeDY0LXNldHVwLmV4ZQpxMXpaa2dTKzdIZWtTbzFDdmt3RFlpNlFmYVJBU0ZkUXk0QnlVbTZobFBDbkhWWmpnVUJRbWVVLyswS3I5YkFCTHNlQ2trN2dlU3I5NHl2R09nVkxEZz09Cg==",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.0.0/SolaceOS_1.0.0_x64-setup.exe"
+                                         }
+                  }
 }
