@@ -1,6 +1,8 @@
 {
-  "version": "0.0.0",
-  "notes": "Placeholder — no mobile release yet.",
-  "pub_date": "2026-07-08T00:00:00Z",
-  "apkUrl": ""
+    "versionName":  "0.3.0",
+    "versionCode":  3,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.0/SolaceOS-0.3.0.apk",
+    "sha256":  "48e13479cc1fa6a2a9dedc9105049be764208590c79f44ac5e090f44a1068f4b",
+    "notes":  "Genesis release - in-app update pipeline. Requires one-time uninstall/reinstall (new signing key).",
+    "minSupportedVersionCode":  3
 }
