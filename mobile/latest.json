@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.0",
-    "versionCode":  3,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.0/SolaceOS-0.3.0.apk",
-    "sha256":  "48e13479cc1fa6a2a9dedc9105049be764208590c79f44ac5e090f44a1068f4b",
-    "notes":  "Genesis release - in-app update pipeline. Requires one-time uninstall/reinstall (new signing key).",
+    "versionName":  "0.3.1",
+    "versionCode":  4,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.1/SolaceOS-0.3.1.apk",
+    "sha256":  "cce237848903950e7c82f509df1f43ee9dcfcab904b0739fc03581f205e995cb",
+    "notes":  "Update pipeline proof: Settings -\u003e Updates now notes this build arrived over the air.",
     "minSupportedVersionCode":  3
 }
