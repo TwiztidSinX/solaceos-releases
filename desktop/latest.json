@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.1",
-    "notes":  "Update for Survival Test",
-    "pub_date":  "2026-07-08T22:18:21Z",
+    "version":  "1.1.2",
+    "notes":  "Int4 Updates and Security update",
+    "pub_date":  "2026-07-08T23:27:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFdiTllsR1d3NjNEbjBRNDh3d1ZMdVZaOUVMaEFzaWxtaDJGT2djNXJPdHpYZTE3bzVkZ2RBd3k5L3JUdk5GMUVOVm1TZ29mVUhzcnh6ZWZIRFBPYlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQ5MTAxCWZpbGU6U29sYWNlT1NfMS4xLjFfeDY0LXNldHVwLmV4ZQpTMnRnRndCMFlZbVYvSlNmSFZwdmMyQjl6bEt6TGNobmpobHBmYUVQVEsrcDJpd2RSQVBCSmJZSHhTTVhlajhJd1QzbkVyeXBBYlpRN0FIYVFnTkFEUT09Cg==",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.1/SolaceOS_1.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFhjU0prWE5ySzltb3p6RDhYTkZ6SzdwVGdac08xSmI4MWRKLzU2OGR0cDhQem5teFhYNXk2SUNTVkhYR1pYOXp1bHd0TG9UdC9zRWxSUGdOM045SlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTUzMjI3CWZpbGU6U29sYWNlT1NfMS4xLjJfeDY0LXNldHVwLmV4ZQpqellybVdMbjRKelk0eGJmNVcyQ1plby94OTNSWnY4ZlEyN3FFb0VqKzNZaC9oUTlWSXFHUW5lcVBjeHRsanY5SWM2akFHdXo5YituKyt5V281dkhCUT09Cg==",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.2/SolaceOS_1.1.2_x64-setup.exe"
                                          }
                   }
 }
