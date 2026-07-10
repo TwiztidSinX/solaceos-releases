@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.1",
-    "versionCode":  4,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.1/SolaceOS-0.3.1.apk",
-    "sha256":  "cce237848903950e7c82f509df1f43ee9dcfcab904b0739fc03581f205e995cb",
-    "notes":  "Update pipeline proof: Settings -\u003e Updates now notes this build arrived over the air.",
+    "versionName":  "0.3.2",
+    "versionCode":  5,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.2/SolaceOS-0.3.2.apk",
+    "sha256":  "2b1ed5a781ccdb6c29788b0a5332e78dd9a01eb949845bfa6054fdc824435768",
+    "notes":  "Provider import from Desktop, per-provider QR pairing, Inkwell Updates section",
     "minSupportedVersionCode":  3
 }
