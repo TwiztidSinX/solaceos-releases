@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.4",
-    "notes":  "Added bundled, private SearXNG search with automatic installation, updates, and Rust-supervised startup.",
-    "pub_date":  "2026-07-10T02:17:11Z",
+    "version":  "1.1.5",
+    "notes":  "Provider Export to Mobile, per-provider QR pairing for ease of transfer to Mobile.",
+    "pub_date":  "2026-07-10T06:59:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFpZV3g2eUJyMG9EY0xFbjllQU03d3o3SHV1VU9HOVZtZytQcGg5Y2ZvdXVRWVZFOVh2ZWwzWWlNVkU2aWIzU2UyK2hZeDZYanBuUFV5Rk81anBGVmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjQ5ODMxCWZpbGU6U29sYWNlT1NfMS4xLjRfeDY0LXNldHVwLmV4ZQpFQTdpMWtJSDZ6a3JJbWU2QVg0eXlzK1JrQStyR1BjbFdDcTh0TEhTS1I2S01La3JTVzVZSUtETjJnUzVySGtTREY1bEJFUUJNVWtzUkZJUHVJRmdDdz09Cg==",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.4/SolaceOS_1.1.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGNiRG1MSUFYTzRyS0hjL2UveVY4UGtDeklJSlFTREExYUhXd0JJWE0rY0N4YWNWeitwM2MwZFBsZVBuK3RhUFBFaEhXUjVlSTNZWHpDSWd4cVZFeHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjY2NzYzCWZpbGU6U29sYWNlT1NfMS4xLjVfeDY0LXNldHVwLmV4ZQpnZXlaVXIzbmQyTUhSTy9HQnNldVFOMVJRV1lMOFh6a2t4b1ErZ2JCaExoZXg4Nk9mV04vU2J4SXlKQnVSeDRGTGxSS01MdWNBc3RobGlQK1Y1L1BEQT09Cg==",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.5/SolaceOS_1.1.5_x64-setup.exe"
                                          }
                   }
 }
