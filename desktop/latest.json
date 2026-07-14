@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.5",
-    "notes":  "Provider Export to Mobile, per-provider QR pairing for ease of transfer to Mobile.",
-    "pub_date":  "2026-07-10T06:59:23Z",
+    "version":  "1.1.6",
+    "notes":  "Bug Fixes for streaming, as well as Updates for Token Utilities.",
+    "pub_date":  "2026-07-14T20:29:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGNiRG1MSUFYTzRyS0hjL2UveVY4UGtDeklJSlFTREExYUhXd0JJWE0rY0N4YWNWeitwM2MwZFBsZVBuK3RhUFBFaEhXUjVlSTNZWHpDSWd4cVZFeHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjY2NzYzCWZpbGU6U29sYWNlT1NfMS4xLjVfeDY0LXNldHVwLmV4ZQpnZXlaVXIzbmQyTUhSTy9HQnNldVFOMVJRV1lMOFh6a2t4b1ErZ2JCaExoZXg4Nk9mV04vU2J4SXlKQnVSeDRGTGxSS01MdWNBc3RobGlQK1Y1L1BEQT09Cg==",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.5/SolaceOS_1.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFY2L1VwRG5yZndIT1NDUXlqdEpWSTdTdndFWnVOeG4xZHUyTHRVTldnUGs4bUtGak5oaSttWWc0ZHM4UTZyWUM3Rm9DUXNMeHNiQW9CTis3STZRekFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDYwOTc2CWZpbGU6U29sYWNlT1NfMS4xLjZfeDY0LXNldHVwLmV4ZQpzVjBuWTZEZWtkc3FiVlkrNlVRRHhOMkxlb29sbE15RzcvNlJjbm9SeWtxeXZKMExnZmdBcVl3UnFXSmYyK0FkK2pOTmhTb0Y3M2JDTktqNGdQdDBEQT09Cg==",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.6/SolaceOS_1.1.6_x64-setup.exe"
                                          }
                   }
 }
