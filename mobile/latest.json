@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.2",
-    "versionCode":  5,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.2/SolaceOS-0.3.2.apk",
-    "sha256":  "2b1ed5a781ccdb6c29788b0a5332e78dd9a01eb949845bfa6054fdc824435768",
-    "notes":  "Provider import from Desktop, per-provider QR pairing, Inkwell Updates section",
+    "versionName":  "0.3.3",
+    "versionCode":  6,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.3/SolaceOS-0.3.3.apk",
+    "sha256":  "97f6a62caecf9f2f962e305040f22c7b10dd7d705b1208e8f368d259b35ad195",
+    "notes":  "Fix for Idle/Restore crash. Fix for Long Conversation on screen keyboard crashing",
     "minSupportedVersionCode":  3
 }
