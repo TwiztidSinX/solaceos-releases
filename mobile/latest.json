@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.4",
-    "versionCode":  7,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.4/SolaceOS-0.3.4.apk",
-    "sha256":  "0fd13d3bec0eb9e74ea0c1bb3394696a2a0252eac30aa1b05a5c6155c17aab8b",
-    "notes":  "Adding a new Tower Defense MiniGame from Fable 5 for fun, as well as a few bugfixes. ",
+    "versionName":  "0.3.5",
+    "versionCode":  8,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.5/SolaceOS-0.3.5.apk",
+    "sha256":  "cfa135b1c64e0806f61798672bc3ea9efde384973def4092c89b5d553a76a560",
+    "notes":  "Added SVGs to new game, and updated continuity play state. ",
     "minSupportedVersionCode":  3
 }
