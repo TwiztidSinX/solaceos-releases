@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.3",
-    "versionCode":  6,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.3/SolaceOS-0.3.3.apk",
-    "sha256":  "97f6a62caecf9f2f962e305040f22c7b10dd7d705b1208e8f368d259b35ad195",
-    "notes":  "Fix for Idle/Restore crash. Fix for Long Conversation on screen keyboard crashing",
+    "versionName":  "0.3.4",
+    "versionCode":  7,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.4/SolaceOS-0.3.4.apk",
+    "sha256":  "0fd13d3bec0eb9e74ea0c1bb3394696a2a0252eac30aa1b05a5c6155c17aab8b",
+    "notes":  "Adding a new Tower Defense MiniGame from Fable 5 for fun, as well as a few bugfixes. ",
     "minSupportedVersionCode":  3
 }
