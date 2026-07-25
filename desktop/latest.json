@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.7",
-    "notes":  "Adding new Ark Defense minigame",
-    "pub_date":  "2026-07-21T00:56:39Z",
+    "version":  "1.1.8",
+    "notes":  "Adding new continuity subsystems to Proxy server client, for Mobile.",
+    "pub_date":  "2026-07-25T03:53:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGRFb2pSTUwwVmNQSjZ4STZYMjFGUmtkUE9tZHpJNEpmMGF0TjNOaCtRTE9tYzFxM2RpTHJ1ZEU4dVZtanZnNVFRWCtpc2tBZjNqQ21kVmJld2loK3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTk1Mzk4CWZpbGU6U29sYWNlT1NfMS4xLjdfeDY0LXNldHVwLmV4ZQo4My9uODgvR3BvckJNeVB6MmlTQTNRYWFTSXYzQTlCSzVlT09EL0llQUdsazNNZk5DR1EzR3JIRSthM25IN0JrUmErMFBJKzVxUCt4aFpXUEQ3WHRCdz09Cg==",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.7/SolaceOS_1.1.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGNRcnhaU1NlNlFmaVR5OC9na3pDUHhBa1h4OTFLVGFDRHByUm5WOWVtMXlRWGdud2tiM2dzcjN1NEVWNlhIdUJaaFBRZU82YS9VQUVVSjA4ZUtCcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTUxNTg3CWZpbGU6U29sYWNlT1NfMS4xLjhfeDY0LXNldHVwLmV4ZQp0UDJyMmpmUXR1Z2hWTnRCN0V6aGZCRmZBd01DOWtJWmRIeUViNy9LTldRSVJaZVBvTjJGYTM4WE1Vb2kxeDlneHdIOW81T0k5UlpWZEJ6cWdNdEJBUT09Cg==",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.8/SolaceOS_1.1.8_x64-setup.exe"
                                          }
                   }
 }
