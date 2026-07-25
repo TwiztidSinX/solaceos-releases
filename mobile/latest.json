@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.6",
-    "versionCode":  9,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.6/SolaceOS-0.3.6.apk",
-    "sha256":  "852397ec8d7430bb4410a46a2053075a612ad03c70bf46c4dae7cc15aa1237d4",
-    "notes":  "Updating Ark Defense Minigame. Added more waves, Gacha mechanics, Tier leveling systems, and new towers and enemies.",
+    "versionName":  "0.3.7",
+    "versionCode":  10,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.7/SolaceOS-0.3.7.apk",
+    "sha256":  "5feadca505ba094260ca94072ee82af5ec47d742409c29d4daee6383a497ad0c",
+    "notes":  "Added Continuity block to Mobile for desktop parity, fixed multiple typescript errors.",
     "minSupportedVersionCode":  3
 }
