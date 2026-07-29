@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.8",
-    "versionCode":  11,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.8/SolaceOS-0.3.8.apk",
-    "sha256":  "48ce9201b3e441a80dec6818e958f1d984456531043ba9dcd434321f582b2a61",
-    "notes":  "Added API Image Generation tooling end to end tested. Added Support for Kimi K3.",
+    "versionName":  "0.3.9",
+    "versionCode":  12,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.9/SolaceOS-0.3.9.apk",
+    "sha256":  "7adb5fbd006f70029ae87c4eaad15576a59a8b08619ad17f9899637d0ad9d0f7",
+    "notes":  "Fixing issues with Images rendering in Mobile.",
     "minSupportedVersionCode":  3
 }
