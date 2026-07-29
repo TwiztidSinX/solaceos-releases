@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.7",
-    "versionCode":  10,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.7/SolaceOS-0.3.7.apk",
-    "sha256":  "5feadca505ba094260ca94072ee82af5ec47d742409c29d4daee6383a497ad0c",
-    "notes":  "Added Continuity block to Mobile for desktop parity, fixed multiple typescript errors.",
+    "versionName":  "0.3.8",
+    "versionCode":  11,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.8/SolaceOS-0.3.8.apk",
+    "sha256":  "48ce9201b3e441a80dec6818e958f1d984456531043ba9dcd434321f582b2a61",
+    "notes":  "Added API Image Generation tooling end to end tested. Added Support for Kimi K3.",
     "minSupportedVersionCode":  3
 }
