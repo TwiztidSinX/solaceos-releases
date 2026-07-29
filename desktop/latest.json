@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.8",
-    "notes":  "Adding new continuity subsystems to Proxy server client, for Mobile.",
-    "pub_date":  "2026-07-25T03:53:07Z",
+    "version":  "1.1.9",
+    "notes":  "Added API Image Generation tooling end to end testing completed, Added support for Kimi K3",
+    "pub_date":  "2026-07-29T11:16:46Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGNRcnhaU1NlNlFmaVR5OC9na3pDUHhBa1h4OTFLVGFDRHByUm5WOWVtMXlRWGdud2tiM2dzcjN1NEVWNlhIdUJaaFBRZU82YS9VQUVVSjA4ZUtCcVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTUxNTg3CWZpbGU6U29sYWNlT1NfMS4xLjhfeDY0LXNldHVwLmV4ZQp0UDJyMmpmUXR1Z2hWTnRCN0V6aGZCRmZBd01DOWtJWmRIeUViNy9LTldRSVJaZVBvTjJGYTM4WE1Vb2kxeDlneHdIOW81T0k5UlpWZEJ6cWdNdEJBUT09Cg==",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.8/SolaceOS_1.1.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFpCWVdSd20yQnAvRkh5ZVVYQjhmYWRUaURweUxFWktvQ2hWR0F5Q0dXY3Y5OGZYZEttZmJZZ3NMdGZSd1YrMlpLNXRMNE9VenVKRm5FSisyREw4UXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzIzODA2CWZpbGU6U29sYWNlT1NfMS4xLjlfeDY0LXNldHVwLmV4ZQpDbkRBMVlYTUhmcmNjK0FzemltTFFzQW4vUGlCcHNoTnRBM1E2U1RMaWlvdDVtYmxINnZBQjJGNE1QNmNLZkVBNEcwZmp2ZmxuVnpnaG9ld1hYenJBUT09Cg==",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.9/SolaceOS_1.1.9_x64-setup.exe"
                                          }
                   }
 }
