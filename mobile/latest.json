@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.9",
-    "versionCode":  12,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.9/SolaceOS-0.3.9.apk",
-    "sha256":  "7adb5fbd006f70029ae87c4eaad15576a59a8b08619ad17f9899637d0ad9d0f7",
-    "notes":  "Fixing issues with Images rendering in Mobile.",
+    "versionName":  "0.3.10",
+    "versionCode":  13,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.10/SolaceOS-0.3.10.apk",
+    "sha256":  "8c142866761120c29f887ab010b379008bd794867b2d808bd4f21c985abc2986",
+    "notes":  "Adding Image Editing Tools",
     "minSupportedVersionCode":  3
 }
