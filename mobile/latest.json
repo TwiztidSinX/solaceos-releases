@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.10",
-    "versionCode":  13,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.10/SolaceOS-0.3.10.apk",
-    "sha256":  "8c142866761120c29f887ab010b379008bd794867b2d808bd4f21c985abc2986",
-    "notes":  "Adding Image Editing Tools",
+    "versionName":  "0.3.11",
+    "versionCode":  14,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.11/SolaceOS-0.3.11.apk",
+    "sha256":  "856b0c0d4ee5aa3596a6047b21d9ad3caacb19d4c0eb157ae9041ae46f5d4933",
+    "notes":  "Attempting to fix Reasoning Models, and Edit Image tool throwing error code 400 on specific Image Generation models. ",
     "minSupportedVersionCode":  3
 }
