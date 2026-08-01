@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.11",
-    "versionCode":  14,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.11/SolaceOS-0.3.11.apk",
-    "sha256":  "856b0c0d4ee5aa3596a6047b21d9ad3caacb19d4c0eb157ae9041ae46f5d4933",
-    "notes":  "Attempting to fix Reasoning Models, and Edit Image tool throwing error code 400 on specific Image Generation models. ",
+    "versionName":  "0.3.12",
+    "versionCode":  15,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.12/SolaceOS-0.3.12.apk",
+    "sha256":  "265f76005a2d1e179eabc4c5732a28db64af9f852bd5bc7799a8db08407eadad",
+    "notes":  "Bug Fix for Ollama Cloud Reasoning Models, and MiniMax M3\u0027s batch tool calling habit. ",
     "minSupportedVersionCode":  3
 }
