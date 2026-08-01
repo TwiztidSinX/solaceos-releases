@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.9",
-    "notes":  "Added API Image Generation tooling end to end testing completed, Added support for Kimi K3",
-    "pub_date":  "2026-07-29T11:16:46Z",
+    "version":  "1.1.10",
+    "notes":  "Working on fixing forced Max Reasoning models, and another issue where different Image Generation models require different fields.",
+    "pub_date":  "2026-08-01T04:06:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFpCWVdSd20yQnAvRkh5ZVVYQjhmYWRUaURweUxFWktvQ2hWR0F5Q0dXY3Y5OGZYZEttZmJZZ3NMdGZSd1YrMlpLNXRMNE9VenVKRm5FSisyREw4UXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzIzODA2CWZpbGU6U29sYWNlT1NfMS4xLjlfeDY0LXNldHVwLmV4ZQpDbkRBMVlYTUhmcmNjK0FzemltTFFzQW4vUGlCcHNoTnRBM1E2U1RMaWlvdDVtYmxINnZBQjJGNE1QNmNLZkVBNEcwZmp2ZmxuVnpnaG9ld1hYenJBUT09Cg==",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.9/SolaceOS_1.1.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabGRPcDFkQ2p1QVFEb1pNVTlIL3BqSUF4TUtLdVFNM3orU3gzM0ZIZm4yVnN2d1dZWEIxaWRHckhPUVBEOGh5cnVEbzB0TFpyZzlhQWVjZ0pjNks1Q0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU3MTgyCWZpbGU6U29sYWNlT1NfMS4xLjEwX3g2NC1zZXR1cC5leGUKWFJTSVI3SWY4ZkpZcTZTQ2V6L3RxeEphSHlwU3kxNnpxMEJOcHJJRW1DSWp1RGVPeWRGMzk1czJyOEN0c3hTWEl3QWRWVVRQdjZvSi81cXFBejUvRHc9PQo=",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.10/SolaceOS_1.1.10_x64-setup.exe"
                                          }
                   }
 }
