@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.12",
-    "versionCode":  15,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.12/SolaceOS-0.3.12.apk",
-    "sha256":  "265f76005a2d1e179eabc4c5732a28db64af9f852bd5bc7799a8db08407eadad",
-    "notes":  "Bug Fix for Ollama Cloud Reasoning Models, and MiniMax M3\u0027s batch tool calling habit. ",
+    "versionName":  "0.3.13",
+    "versionCode":  16,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.13/SolaceOS-0.3.13.apk",
+    "sha256":  "7064fc81bf6d8003ba6f1955e41b498109dc824fce71a9ab056c69e12fc5930b",
+    "notes":  "Adding Effort controls for Ollama and DeepSeek API, and support for Max Reasoning effort models on the ChatUI.",
     "minSupportedVersionCode":  3
 }
