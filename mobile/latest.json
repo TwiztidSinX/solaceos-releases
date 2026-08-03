@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.13",
-    "versionCode":  16,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.13/SolaceOS-0.3.13.apk",
-    "sha256":  "7064fc81bf6d8003ba6f1955e41b498109dc824fce71a9ab056c69e12fc5930b",
-    "notes":  "Adding Effort controls for Ollama and DeepSeek API, and support for Max Reasoning effort models on the ChatUI.",
+    "versionName":  "0.3.14",
+    "versionCode":  17,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.14/SolaceOS-0.3.14.apk",
+    "sha256":  "1b93025bbeed94cbedb218b82c7674dc8ccde38989b850b63b3028236b8eacac",
+    "notes":  "Working on Solo - Untethered Continuity updates.",
     "minSupportedVersionCode":  3
 }
