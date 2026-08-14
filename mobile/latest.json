@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.14",
-    "versionCode":  17,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.14/SolaceOS-0.3.14.apk",
-    "sha256":  "1b93025bbeed94cbedb218b82c7674dc8ccde38989b850b63b3028236b8eacac",
-    "notes":  "Working on Solo - Untethered Continuity updates.",
+    "versionName":  "0.3.15",
+    "versionCode":  18,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.15/SolaceOS-0.3.15.apk",
+    "sha256":  "dd87d3d797bb36b1047bb4ebec1785fbfb554def0e17a70d6b896b2e2fa2bbbd",
+    "notes":  "Multiple updates bundled. Including Kimi K3, DeepSeek V4 Pro, Qwen3.8, reasoning testing, mobile tools, updated model loader for local model loading.",
     "minSupportedVersionCode":  3
 }
