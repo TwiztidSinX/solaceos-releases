@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.17",
-    "versionCode":  20,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.17/SolaceOS-0.3.17.apk",
-    "sha256":  "e8e5a4328c91ada2e03f98aa424ac206a3a76fdb87775fcc949eeca167d671e2",
-    "notes":  "Local model capability tags (tools, vision) now appear as soon as models are scanned, no need to load each one first. Refresh now fills in tags for already-added local models. Vision support wired for local multimodal models that have a companion mmproj projector file.",
+    "versionName":  "0.3.18",
+    "versionCode":  21,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.18/SolaceOS-0.3.18.apk",
+    "sha256":  "92c2647dc926a61b457a32fd7604a150e89daebd256db7b2e9ca11cbf70647b6",
+    "notes":  "Vision tag now appears for local models when their companion mmproj projector file is present, even if you download the projector after the model. Projector is matched to the correct model so other models in the same folder are not mislabeled. Reasoning tag now shows for local reasoning models. Tap Refresh to update tags on models you already added.",
     "minSupportedVersionCode":  3
 }
