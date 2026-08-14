@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.16",
-    "versionCode":  19,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.16/SolaceOS-0.3.16.apk",
-    "sha256":  "49865fa5609de03a126e403ab97aac6bb20d09d3a19e42ece07e678ef237a421",
-    "notes":  "Continuity index injected into context so the model keeps a coherent map of its own history. Kimi/OpenRouter long-reasoning streams no longer time out mid-generation. Reasoning-replay models (Kimi, MiniMax) no longer narrate tool calls they didn\u0027t make. New per-model context-size selector when loading local models. Local GGUF capabilities (tools/vision) now resolved from the file itself — works offline; vision enabled only when a companion mmproj projector and reachable mtmd path are present.",
+    "versionName":  "0.3.17",
+    "versionCode":  20,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.17/SolaceOS-0.3.17.apk",
+    "sha256":  "e8e5a4328c91ada2e03f98aa424ac206a3a76fdb87775fcc949eeca167d671e2",
+    "notes":  "Local model capability tags (tools, vision) now appear as soon as models are scanned, no need to load each one first. Refresh now fills in tags for already-added local models. Vision support wired for local multimodal models that have a companion mmproj projector file.",
     "minSupportedVersionCode":  3
 }
