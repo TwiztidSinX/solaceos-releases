@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.19",
-    "versionCode":  22,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.19/SolaceOS-0.3.19.apk",
-    "sha256":  "2d51ea3e1ccb1fc94ced8e8232ed1601e72ac8dbe568e2d29fb1d98f7bf9011d",
-    "notes":  "Vision tag now also detects models with built-in vision that do not need a separate mmproj file, such as Gemma 3 and 4, Qwen3.5, and Qwen3-VL. Text-only models are left untagged. Tap Refresh to update tags on models you already added.",
+    "versionName":  "0.3.21",
+    "versionCode":  24,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.21/SolaceOS-0.3.21.apk",
+    "sha256":  "30fcbc0e542873f4bd599cc11cae175b1d95e9660c1ba553063c24a76733d1a6",
+    "notes":  "Fixing Local Models duplicating on mobile drive. ",
     "minSupportedVersionCode":  3
 }
