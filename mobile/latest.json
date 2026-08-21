@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.21",
-    "versionCode":  24,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.21/SolaceOS-0.3.21.apk",
-    "sha256":  "30fcbc0e542873f4bd599cc11cae175b1d95e9660c1ba553063c24a76733d1a6",
-    "notes":  "Fixing Local Models duplicating on mobile drive. ",
+    "versionName":  "0.3.22",
+    "versionCode":  25,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.22/SolaceOS-0.3.22.apk",
+    "sha256":  "c672f399afd51ac224c0d9084c6e9e825f5e771fa9d39b3395e0e9db06495c24",
+    "notes":  "Fixed truncated replies when models mention \u003cthink\u003e tags, plus DeepSeek multi-turn tool fixes.",
     "minSupportedVersionCode":  3
 }
