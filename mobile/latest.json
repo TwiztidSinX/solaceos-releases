@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.22",
-    "versionCode":  25,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.22/SolaceOS-0.3.22.apk",
-    "sha256":  "c672f399afd51ac224c0d9084c6e9e825f5e771fa9d39b3395e0e9db06495c24",
-    "notes":  "Fixed truncated replies when models mention \u003cthink\u003e tags, plus DeepSeek multi-turn tool fixes.",
+    "versionName":  "0.3.23",
+    "versionCode":  26,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.23/SolaceOS-0.3.23.apk",
+    "sha256":  "1070a32983b63a8ff4106023085882d5bb423a228837bb7bc7c35c9116f3b5a7",
+    "notes":  "Fixes reasoning models on the Ollama Cloud route dropping their tool calls or getting cut off mid-thought on longer reasoning. Reasoning no longer starves the answer and tool-call budget, and turns that hit the output-token limit now show a clear notice instead of failing silently.",
     "minSupportedVersionCode":  3
 }
