@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.24",
-    "versionCode":  27,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.24/SolaceOS-0.3.24.apk",
-    "sha256":  "9ec1f6a49c2699a8f7cd9193ae659fb93db5ac5a8f53a5fde45ca6cb2bbcebd5",
-    "notes":  "Added support for DeepSeek v4 Flash Vision, added a fix for images degrading reasoning.",
+    "versionName":  "0.3.25",
+    "versionCode":  28,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.25/SolaceOS-0.3.25.apk",
+    "sha256":  "d23aaa39c813e90a732ada0a64f630ab04c97e283fd0cac7dcac9b88e2f1d05d",
+    "notes":  "Fixes reasoning models on the DeepSeek and other direct-API routes getting cut off mid-thought with no answer. Long reasoning no longer uses up the whole output-token budget before the model can reply. This extends the same fix from the Ollama Cloud route to the direct API routes.",
     "minSupportedVersionCode":  3
 }
