@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.26",
-    "versionCode":  29,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.26/SolaceOS-0.3.26.apk",
-    "sha256":  "02eb2f412ef279782e02b0f8c898da2a1518823265db8e96103037117051d2b9",
-    "notes":  "DeepSeek Flash now correctly shows its vision and reasoning capabilities, not just tools. The rolling deepseek-flash id serves a multimodal reasoning model, so you can now attach images to it and see its reasoning tag.",
+    "versionName":  "0.3.27",
+    "versionCode":  30,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.27/SolaceOS-0.3.27.apk",
+    "sha256":  "3f509012c3217495572a950efbb2b4b1e11b7ffc3b1485c82db09be58171237d",
+    "notes":  "Adding customizable Max Output settings",
     "minSupportedVersionCode":  3
 }
