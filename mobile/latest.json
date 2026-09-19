@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.27",
-    "versionCode":  30,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.27/SolaceOS-0.3.27.apk",
-    "sha256":  "3f509012c3217495572a950efbb2b4b1e11b7ffc3b1485c82db09be58171237d",
-    "notes":  "Adding customizable Max Output settings",
+    "versionName":  "0.3.28",
+    "versionCode":  31,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.28/SolaceOS-0.3.28.apk",
+    "sha256":  "58c99a068e706a4f19f2f6061ae468e65bab3a1c36c2236d69521e4016c3c291",
+    "notes":  "Voice Mode now waits for you to finish thinking: pause-before-send is a setting now, default 1.2s.",
     "minSupportedVersionCode":  3
 }
