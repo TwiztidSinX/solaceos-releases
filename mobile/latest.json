@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.28",
-    "versionCode":  31,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.28/SolaceOS-0.3.28.apk",
-    "sha256":  "58c99a068e706a4f19f2f6061ae468e65bab3a1c36c2236d69521e4016c3c291",
-    "notes":  "Voice Mode now waits for you to finish thinking: pause-before-send is a setting now, default 1.2s.",
+    "versionName":  "0.3.29",
+    "versionCode":  32,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.29/SolaceOS-0.3.29.apk",
+    "sha256":  "12783aa6c6e5e7578fa94f6099894b88b904d313ac4be4869344217d0e376080",
+    "notes":  "Updated Discord tools and continuity between surfaces, updated model aware surfacing, updated image generation tools for different surfaces",
     "minSupportedVersionCode":  3
 }
