@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.29",
-    "versionCode":  32,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.29/SolaceOS-0.3.29.apk",
-    "sha256":  "12783aa6c6e5e7578fa94f6099894b88b904d313ac4be4869344217d0e376080",
-    "notes":  "Updated Discord tools and continuity between surfaces, updated model aware surfacing, updated image generation tools for different surfaces",
+    "versionName":  "0.3.30",
+    "versionCode":  33,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.30/SolaceOS-0.3.30.apk",
+    "sha256":  "246179197c868dbc056aef92eb89ba52b076594eee2ea94ae46cb080d92e3474",
+    "notes":  "Added new game from Opus 5.5 - Geode, Incremental tapping game.",
     "minSupportedVersionCode":  3
 }
