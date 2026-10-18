@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.30",
-    "versionCode":  33,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.30/SolaceOS-0.3.30.apk",
-    "sha256":  "246179197c868dbc056aef92eb89ba52b076594eee2ea94ae46cb080d92e3474",
-    "notes":  "Added new game from Opus 5.5 - Geode, Incremental tapping game.",
+    "versionName":  "0.3.31",
+    "versionCode":  34,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.31/SolaceOS-0.3.31.apk",
+    "sha256":  "4a602ef6ad6f81e77f387b2b9a58bf213cac9e72b13ba365eb211a932bbc57e6",
+    "notes":  "Adding Modal for Swarm tooling.",
     "minSupportedVersionCode":  3
 }
