@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.11",
-    "notes":  "Too much to list. This release has had hundreds of hours of changes and fixes. The most recent fixes were Discord Continuity related. But tools, reasoning, continuity, games, model compatability, ToM, Memory, Journals, and so much more has been updated.",
-    "pub_date":  "2026-09-25T03:21:19Z",
+    "version":  "1.1.12",
+    "notes":  "Added Additional Layers to the Dual Role Architecture. Added autospawned MCP Tools server. Harness updated, so models know it by default. No need to waste time learning it. Added Overwatch Guardrail role, named Nova. Nova steps in when the main model attempts to perform an action that is not allowed. New Solace\u003c-\u003eNova tool where Solace can ask Nova questions, and Nova replies.",
+    "pub_date":  "2026-11-10T06:43:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFFMYTZZOG5BVFFHMS83b3AzMXpJSG9OazZOeVUwc0ZvRm5HQVE3OEZpbnRKcWRwSkRXbVlhekFOZGd4WUtYd2lDTFNhNkhCVFg5REhNNG5McXhWS0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzA2NDc5CWZpbGU6U29sYWNlT1NfMS4xLjExX3g2NC1zZXR1cC5leGUKZHdOSVVuM3ZSY3JjbnMrYUQ5VVlhbzhFQS9ENEpJY3c1Sm5DMzhseUk5NE1MUGpqS0RyTk5POFBDYmhuVGczaXUzdG8wRERQNGw4SVlxamFCWitiQ1E9PQo=",
-                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.11/SolaceOS_1.1.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTY0YXc0VERabFg2V25BUXJGRVp5OTdHUW82VEdwVThwT1FnYlA2R0xWZ21lb2Zlb09BWTRtbWVwaDBBdHB1UXNFWTR0TG9kNGRMYnVzVkNzZkNNbWlrQ01KSmZPZlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkyOTg1CWZpbGU6U29sYWNlT1NfMS4xLjEyX3g2NC1zZXR1cC5leGUKNW96YmxyRlVNeVJ3b3JNaG1EYktXQmk2a1puUTY0aTExU1c5Qnl4cjVGSkFsT0RqM3Vkc2JxdUJjMjBrMDZ3RTRrN05vYVJsNDRVUk05UkNPcWs5QlE9PQo=",
+                                             "url":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/desktop-v1.1.12/SolaceOS_1.1.12_x64-setup.exe"
                                          }
                   }
 }
