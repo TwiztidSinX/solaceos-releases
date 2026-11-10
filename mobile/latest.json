@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.31",
-    "versionCode":  34,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.31/SolaceOS-0.3.31.apk",
-    "sha256":  "4a602ef6ad6f81e77f387b2b9a58bf213cac9e72b13ba365eb211a932bbc57e6",
-    "notes":  "Adding Modal for Swarm tooling.",
+    "versionName":  "0.3.32",
+    "versionCode":  35,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.32/SolaceOS-0.3.32.apk",
+    "sha256":  "c3ddc1844dd82bc13f9fee0d708887a5e4aa2c7b3a0f03748b0c6ad66d8de11d",
+    "notes":  "Added Nova Guardrails to Desktop version, added Nova to Mobile version via routing though Desktop Version.",
     "minSupportedVersionCode":  3
 }
