@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.32",
-    "versionCode":  35,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.32/SolaceOS-0.3.32.apk",
-    "sha256":  "c3ddc1844dd82bc13f9fee0d708887a5e4aa2c7b3a0f03748b0c6ad66d8de11d",
-    "notes":  "Added Nova Guardrails to Desktop version, added Nova to Mobile version via routing though Desktop Version.",
+    "versionName":  "0.3.33",
+    "versionCode":  36,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.33/SolaceOS-0.3.33.apk",
+    "sha256":  "dd1e8261901b6db034f4f6c0a325a1e08a03c014079a23b0c0af194a240fbc29",
+    "notes":  "Updating the ToM User Profile, to properly sync with Desktop Build while tethered. Solo Mode is unchanged currently.",
     "minSupportedVersionCode":  3
 }
