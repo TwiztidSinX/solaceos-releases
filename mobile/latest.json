@@ -1,8 +1,8 @@
 {
-    "versionName":  "0.3.33",
-    "versionCode":  36,
-    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.33/SolaceOS-0.3.33.apk",
-    "sha256":  "dd1e8261901b6db034f4f6c0a325a1e08a03c014079a23b0c0af194a240fbc29",
-    "notes":  "Updating the ToM User Profile, to properly sync with Desktop Build while tethered. Solo Mode is unchanged currently.",
+    "versionName":  "0.3.34",
+    "versionCode":  37,
+    "apkUrl":  "https://github.com/TwiztidSinX/solaceos-releases/releases/download/mobile-v0.3.34/SolaceOS-0.3.34.apk",
+    "sha256":  "2265b28b43fe20b3f000b408e88284e5b6ae931a8d739962856d76a2245d8d6d",
+    "notes":  "Queue messages while a reply runs (delivered at the next tool step or when it finishes, or right away with Send Now), Stop now works during tool calls, interrupted replies are saved, and phone and Desktop chats now show the same authors, tool calls, reasoning and images.",
     "minSupportedVersionCode":  3
 }
